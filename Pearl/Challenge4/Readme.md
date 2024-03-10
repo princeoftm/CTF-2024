@@ -1,0 +1,1 @@
+just the hash of the difficulty 

@@ -4,7 +4,7 @@ We got 3 addresses in this one
 
 
 
-One of them is an enc server,one is a netcat server and the other is the connection information 
+One of them is an electrum server,one is a netcat server and the other is the connection information 
 
 All we had to do was to just connect to the electrum server lythis 
 
@@ -12,4 +12,4 @@ All we had to do was to just connect to the electrum server lythis
 
 
 
-and deposit it and withdraw 
+and transfer it to the account

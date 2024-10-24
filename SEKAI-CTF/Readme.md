@@ -1,2 +1,3 @@
 Solved 1 
-could have solved the other if i knew foundry debugger existed
+
+I learnt How to use foundry debugger in this CTF '-'.
